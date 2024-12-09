@@ -30,7 +30,7 @@ Se ha añadido una hoja para mostrar el balance diario mes por mes, organizado e
 
  
 
-[![Power BI](https://img.shields.io/badge/Power_BI-Desktop-red?style=for-the-badge&logo=power-bi&logoColor=white&labelColor=101010)](https://powerbi.microsoft.com/)
+![Power BI](https://img.shields.io/badge/Power%20BI-3D85C6?style=for-the-badge&logo=power-bi&logoColor=white)
 
 
 
