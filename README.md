@@ -4,6 +4,9 @@
 [![Power BI](https://img.shields.io/badge/Power_BI-Desktop-red?style=for-the-badge&logo=power-bi&logoColor=white&labelColor=101010)](https://powerbi.microsoft.com/)
  
 
+## Proyecto desarrollado con Excel y Power BI que permite llevar un flujo financiero y visualizar los datos clave para la toma de decisiones informadas.
+
+
 [![Excel](https://img.shields.io/badge/Excel-101010?style=for-the-badge&logo=microsoft-excel&logoColor=white)](https://www.microsoft.com/en-us/microsoft-365/excel)
 
 Este proyecto presenta imágenes que muestran un archivo de Excel diseñado para ayudar a las pequeñas empresas a gestionar sus finanzas de manera eficiente. A través de visualizaciones creadas en Power BI, se ofrece un seguimiento detallado de los ingresos y egresos, así como balances financieros diarios y mensuales. El objetivo es proporcionar una manera visual y clara de gestionar el flujo financiero, facilitando la toma de decisiones y la planificación estratégica.
