@@ -32,8 +32,16 @@ Se ha añadido una hoja para mostrar el balance diario mes por mes, organizado e
 
 ![Power BI](https://img.shields.io/badge/Power%20BI-3D85C6?style=for-the-badge&logo=power-bi&logoColor=white)
 
+Usando Power BI, con datos provenientes de una base de datos diseñada en Excel, se realizaron análisis detallados y visualizaciones interactivas. El objetivo principal era facilitar la toma de decisiones estratégicas basadas en información respaldada por datos. Los análisis permitieron identificar tendencias, patrones y áreas clave para optimización, facilitando así una comprensión más profunda del desempeño general y ayudando a predecir escenarios futuros. 
 
+![image](https://github.com/user-attachments/assets/fc33dbe5-946c-4a3a-b16d-d0681d8272a4)
 
+Al aplicar filtros en las visualizaciones de Power BI, específicamente segmentando los datos por Razón (escuelas), se logró identificar de manera clara y eficiente cuáles instituciones estaban generando mayores ingresos. Este enfoque permitió resaltar tendencias específicas por escuela, facilitando la comparación directa entre ellas y ayudando a enfocar estrategias en las instituciones con mayor potencial o áreas de oportunidad.
 
+![image](https://github.com/user-attachments/assets/0591be15-5de8-485c-bb03-5c8dbabda853)
+
+Posteriormente se desarrolló una visualización combinada que incluía un gráfico de barras y de líneas. Las barras representaban la cantidad de ingresos totales (ingreso bruto), mientras que la línea superpuesta mostraba el porcentaje de ganancia (ingreso neto). Esta combinación permitió analizar de manera simultánea tanto el volumen de ingresos como la eficiencia en la generación de ganancias, proporcionando una perspectiva integral para evaluar el rendimiento financiero y detectar posibles desequilibrios entre ingresos y márgenes de ganancia.
+
+![image](https://github.com/user-attachments/assets/0d97c561-7d8e-4ed6-8db7-0aa8087476d6)
 
 
