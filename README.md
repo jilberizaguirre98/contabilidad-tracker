@@ -36,7 +36,7 @@ Usando Power BI, con datos provenientes de una base de datos diseñada en Excel,
 
 ![image](https://github.com/user-attachments/assets/fc33dbe5-946c-4a3a-b16d-d0681d8272a4)
 
-Al aplicar filtros en las visualizaciones de Power BI, específicamente segmentando los datos por Razón (escuelas), se logró identificar de manera clara y eficiente cuáles instituciones estaban generando mayores ingresos. Este enfoque permitió resaltar tendencias específicas por escuela, facilitando la comparación directa entre ellas y ayudando a enfocar estrategias en las instituciones con mayor potencial o áreas de oportunidad.
+Al aplicar filtros en las visualizaciones de Power BI, específicamente segmentando los datos por Razon, se logró identificar de manera clara y eficiente cuáles instituciones estaban generando mayores ingresos. Este enfoque permitió resaltar tendencias específicas por Razon, facilitando la comparación directa entre ellas y ayudando a enfocar estrategias en las instituciones con mayor potencial o áreas de oportunidad.
 
 ![image](https://github.com/user-attachments/assets/0591be15-5de8-485c-bb03-5c8dbabda853)
 
@@ -44,4 +44,11 @@ Posteriormente se desarrolló una visualización combinada que incluía un gráf
 
 ![image](https://github.com/user-attachments/assets/0d97c561-7d8e-4ed6-8db7-0aa8087476d6)
 
+Adicionalmente se diseñó un gráfico segmentado por cliente que permitió identificar a los top 10 mejores clientes en términos de ingresos generados. Esta visualización facilitó el análisis detallado del comportamiento de los clientes clave, lo que abrió la posibilidad de implementar estrategias personalizadas para fidelizarlos, como promociones exclusivas o programas de reconocimiento. Al centrar los esfuerzos en estos clientes estratégicos, se fortaleció su lealtad y se maximizó su impacto en los ingresos a largo plazo.
+
+![image](https://github.com/user-attachments/assets/09a470de-f856-4f7a-8830-dcc90824f324)
+
+Finalmente, se desarrollaron dos gráficos para analizar el desempeño de los productos. El primero fue un gráfico de barras apiladas que permitió visualizar las ventas agrupadas por paquetes previamente identificados en la sección de comentarios. El segundo fue un gráfico de barras simples para detallar las ventas de cada producto individual. Esta combinación de gráficos permitió identificar con claridad cuáles eran los productos y paquetes más vendidos. Con base en estos resultados, se diseñó una estrategia publicitaria de promoción enfocada en los paquetes de mayor demanda, maximizando su alcance y potenciando las ventas mediante campañas específicas.
+
+![image](https://github.com/user-attachments/assets/91ae4f70-f807-4116-af77-1e7c3300cee3)
 
