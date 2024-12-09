@@ -18,6 +18,6 @@ Adicionalmente se ha creado una hoja adicional para autocompletar los campos de 
 
 Balance Diario
 
-![image](https://github.com/user-attachments/assets/51679979-8442-459c-baad-6f545df949e9)
+![image](https://github.com/user-attachments/assets/3a2a1df2-707b-4209-a44b-6edf6a534ea6)
 ![image](https://github.com/user-attachments/assets/4c92a3df-6daf-41ea-80da-da74959ed603)
 
