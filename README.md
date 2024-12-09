@@ -3,6 +3,9 @@
 [![Excel](https://img.shields.io/badge/Excel-2021+-green?style=for-the-badge&logo=microsoft-excel&logoColor=white&labelColor=101010)](https://www.microsoft.com/en-us/microsoft-365/excel)
 [![Power BI](https://img.shields.io/badge/Power_BI-Desktop-red?style=for-the-badge&logo=power-bi&logoColor=white&labelColor=101010)](https://powerbi.microsoft.com/)
 
+
+[![Excel](https://img.shields.io/badge/Excel-2021+-green?style=for-the-badge&logo=microsoft-excel&logoColor=white&labelColor=101010)](https://www.microsoft.com/en-us/microsoft-365/excel)
+
 Este proyecto presenta imágenes que muestran un archivo de Excel diseñado para ayudar a las pequeñas empresas a gestionar sus finanzas de manera eficiente. A través de visualizaciones creadas en Power BI, se ofrece un seguimiento detallado de los ingresos y egresos, así como balances financieros diarios y mensuales. El objetivo es proporcionar una manera visual y clara de gestionar el flujo financiero, facilitando la toma de decisiones y la planificación estratégica.
 
 Sse creo un formulario de entrada de datos desarrollado en Visual Basic, diseñado para facilitar y automatizar el ingreso de información contable. El formulario permite registrar datos como Fecha, Origen/Destino, Valor, Tipo, Método, Razón y Comentarios.
@@ -26,4 +29,11 @@ Se ha añadido una hoja para mostrar el balance diario mes por mes, organizado e
 ![image](https://github.com/user-attachments/assets/4c92a3df-6daf-41ea-80da-da74959ed603)  
 
  
+
+[![Power BI](https://img.shields.io/badge/Power_BI-Desktop-red?style=for-the-badge&logo=power-bi&logoColor=white&labelColor=101010)](https://powerbi.microsoft.com/)
+
+
+
+
+
 
